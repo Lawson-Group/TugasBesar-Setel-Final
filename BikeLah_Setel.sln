@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33414.496
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BikeLah_Setel", "BikeLah_Setel.csproj", "{F8CB826C-1D5A-4314-A7E3-4BE26B195B75}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BikeLah_SetelTests", "..\BikeLah_SetelTests\BikeLah_SetelTests.csproj", "{B52381F4-3582-41C3-96BA-AB8945D48899}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F8CB826C-1D5A-4314-A7E3-4BE26B195B75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8CB826C-1D5A-4314-A7E3-4BE26B195B75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8CB826C-1D5A-4314-A7E3-4BE26B195B75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8CB826C-1D5A-4314-A7E3-4BE26B195B75}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B52381F4-3582-41C3-96BA-AB8945D48899}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B52381F4-3582-41C3-96BA-AB8945D48899}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B52381F4-3582-41C3-96BA-AB8945D48899}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B52381F4-3582-41C3-96BA-AB8945D48899}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E6FF1B14-1888-4193-84E8-9E3EA3BFA46C}
+	EndGlobalSection
+EndGlobal

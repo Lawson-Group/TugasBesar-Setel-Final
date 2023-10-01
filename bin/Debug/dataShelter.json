@@ -1,0 +1,94 @@
+[
+  {
+    "LokasiShelter": "GKU",
+    "KendaraanTersedia": [
+      {
+        "NomorSeri": "A106",
+        "JenisKendaraan": "Sepeda"
+      },
+      {
+        "NomorSeri": "A107",
+        "JenisKendaraan": "Sepeda"
+      },
+      {
+        "NomorSeri": "B104",
+        "JenisKendaraan": "Sekuter"
+      },
+      {
+        "NomorSeri": "B105",
+        "JenisKendaraan": "Sekuter"
+      },
+      {
+        "NomorSeri": null,
+        "JenisKendaraan": null
+      }
+    ]
+  },
+  {
+    "LokasiShelter": "TULT",
+    "KendaraanTersedia": [
+      {
+        "NomorSeri": "A108",
+        "JenisKendaraan": "Sepeda"
+      },
+      {
+        "NomorSeri": "A109",
+        "JenisKendaraan": "Sepeda"
+      },
+      {
+        "NomorSeri": null,
+        "JenisKendaraan": null
+      },
+      {
+        "NomorSeri": "B107",
+        "JenisKendaraan": "Sekuter"
+      },
+      {
+        "NomorSeri": "B108",
+        "JenisKendaraan": "Sekuter"
+      }
+    ]
+  },
+  {
+    "LokasiShelter": "MSU",
+    "KendaraanTersedia": [
+      {
+        "NomorSeri": "A110",
+        "JenisKendaraan": "Sepeda"
+      },
+      {
+        "NomorSeri": "B101",
+        "JenisKendaraan": "Sekuter"
+      },
+      {
+        "NomorSeri": null,
+        "JenisKendaraan": null
+      },
+      {
+        "NomorSeri": "B106",
+        "JenisKendaraan": "Sekuter"
+      }
+    ]
+  },
+  {
+    "LokasiShelter": "OPLIB",
+    "KendaraanTersedia": [
+      {
+        "NomorSeri": "B102",
+        "JenisKendaraan": "Sekuter"
+      },
+      {
+        "NomorSeri": "B103",
+        "JenisKendaraan": "Sekuter"
+      },
+      {
+        "NomorSeri": null,
+        "JenisKendaraan": null
+      },
+      {
+        "NomorSeri": null,
+        "JenisKendaraan": null
+      }
+    ]
+  }
+]

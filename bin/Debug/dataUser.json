@@ -1,0 +1,116 @@
+[
+  {
+    "username": "Aisha",
+    "password": "1302213038",
+    "dataUser": {
+      "dataCivitas": {
+        "namaLengkap": "Aisha Putri Nuryan",
+        "id": "1302213038",
+        "role": "Mahasiswa",
+        "jurusan": "S1 RPL",
+        "angkatan": "2021"
+      },
+      "dataPribadi": {
+        "gender": "Perempuan",
+        "nik": "12345567890",
+        "nomorHp": "085555666777",
+        "email": "ais@gmail.com",
+        "emailInstitusi": "studentAis@gmail.com"
+      }
+    },
+    "peminjaman": null,
+    "historyPeminjaman": null
+  },
+  {
+    "username": "Jannah",
+    "password": "1302213051",
+    "dataUser": {
+      "dataCivitas": {
+        "namaLengkap": "Jannatin Nurrohmah",
+        "id": "1302213051",
+        "role": "Mahasiswa",
+        "jurusan": "S1 RPL",
+        "angkatan": "2021"
+      },
+      "dataPribadi": {
+        "gender": "Perempuan",
+        "nik": "12345567890",
+        "nomorHp": "085712409877",
+        "email": "jeje@gmail.com",
+        "emailInstitusi": "studentJeje@gmail.com"
+      }
+    },
+    "peminjaman": null,
+    "historyPeminjaman": [
+      {
+        "WaktuPeminjaman": "2023-06-13T20:24:31.8584936+07:00",
+        "NamaPeminjam": "Jannatin Nurrohmah",
+        "shelterAwal": "GKU",
+        "shelterAkhir": "OPLIB",
+        "kendaraan": {
+          "NomorSeri": "A106",
+          "JenisKendaraan": "Sepeda"
+        },
+        "batasWaktuPengembalian": "2023-06-13T20:54:31.8584936+07:00"
+      },
+      null
+    ]
+  },
+  {
+    "username": "Novita",
+    "password": "1302213030",
+    "dataUser": {
+      "dataCivitas": {
+        "namaLengkap": "Novita Sabila Nugraha",
+        "id": "1302213030",
+        "role": "Mahasiswa",
+        "jurusan": "S1 RPL",
+        "angkatan": "2021"
+      },
+      "dataPribadi": {
+        "gender": "Perempuan",
+        "nik": "12345567890",
+        "nomorHp": "085712409877",
+        "email": "novita@gmail.com",
+        "emailInstitusi": "studentNovita@gmail.com"
+      }
+    },
+    "peminjaman": null,
+    "historyPeminjaman": null
+  },
+  {
+    "username": "Jean",
+    "password": "1302210004",
+    "dataUser": {
+      "dataCivitas": {
+        "namaLengkap": "Jean Rika",
+        "id": "1302210004",
+        "role": "Mahasiswa",
+        "jurusan": "S1 RPL",
+        "angkatan": "2021"
+      },
+      "dataPribadi": {
+        "gender": "Perempuan",
+        "nik": "12345567890",
+        "nomorHp": "085555666777",
+        "email": "jenap@gmail.com",
+        "emailInstitusi": "studentJenap@gmail.com"
+      }
+    },
+    "peminjaman": null,
+    "historyPeminjaman": [
+      {
+        "WaktuPeminjaman": "2023-06-11T20:26:20.4091757+07:00",
+        "NamaPeminjam": "Jean Rika",
+        "shelterAwal": "TULT",
+        "shelterAkhir": "GKU",
+        "kendaraan": {
+          "NomorSeri": "A108",
+          "JenisKendaraan": "Sepeda"
+        },
+        "batasWaktuPengembalian": "2023-06-11T20:56:20.4104459+07:00"
+      },
+      null
+    ]
+  }
+]

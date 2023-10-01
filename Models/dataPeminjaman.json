@@ -1,0 +1,28 @@
+{
+  "dataPeminjaman": [
+    {
+      "jenisKendaraan": "Sepeda",
+      "nomorSeri": "A008",
+      "shelterAwal": "TULT",
+      "shelterAkhir": "GKU"
+    },
+    {
+      "jenisKendaraan": "Sekuter",
+      "nomorSeri": "B612",
+      "shelterAwal": "OPLIB",
+      "shelterAkhir": "MSU"
+    },
+    {
+      "jenisKendaraan": "Sepeda",
+      "nomorSeri": "A516",
+      "shelterAwal": "TULT",
+      "shelterAkhir": "OPLIB"
+    },
+    {
+      "jenisKendaraan": "Sekuter",
+      "nomorSeri": "B154",
+      "shelterAwal": "OPLIB",
+      "shelterAkhir": "GKU"
+    }
+  ]
+}
